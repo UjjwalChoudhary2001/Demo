@@ -1,1 +1,2 @@
 This is a new file created inside Clone_Project new_feature branch
+Now i have made changes in xyz.txt which came from newly hired develop.
